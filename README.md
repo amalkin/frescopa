@@ -1,6 +1,14 @@
 # Frescopa Site Project
 Based on the boilerplate for AEM Authoring with Edge Delivery Services projects that integrate with Adobe Commerce.
 
+## Sites
+
+* AEM: https://author-p46152-e633525.adobeaemcloud.com/ui#/aem/sites.html/content/frescopa/en
+* Preview: https://main--frescopa--amalkin.aem.page/
+* Live: https://main--frescopa--amalkin.aem.live/
+
+![alt text](assets/ue-homescreen.png)
+
 ## Environments
 - Live: https://frescopa.coffee/
 
